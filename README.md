@@ -8,7 +8,7 @@ Aktualna wersja kampanii jest dostępna po wdrożeniu pod adresem:
 
 1. Podglądy raportu są generowane z `demo-raport-sportowiec.html`, który zawiera wyłącznie dane demonstracyjne. Aby odtworzyć PNG, uruchom `node scripts/generate-recruitment-previews.cjs` z ustawioną zmienną `NODE_PATH` wskazującą na bundlowane moduły Codex (Playwright).
 2. Sprawdź aktualne kryteria rekrutacji i edytuj tylko tekst w sekcji „Kogo obecnie szukamy?”.
-3. CTA prowadzi do stałego formularza: `https://badaniasport.pl/formularz-zgloszeniowy-zdrowy-sportowiec`.
+3. CTA prowadzi do aktualnego formularza rekrutacyjnego: `https://badaniasport.pl/#formularz`.
 
 ## Własna subdomena
 
